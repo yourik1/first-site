@@ -4,7 +4,7 @@
 
 - Poderá ver linhas extras no código que não são necessárias mas, ***por enquanto***, continuam lá;<br>
 - Poderá encontrar linhas comentadas no código que ***ainda*** não foram apagadas;<br>
-- Poderá encontrar alguns bugs ou um pouco de lentidão ao carregar devido aos "excessos" de códigos para ler citados acima ou por conter imagens mais pesadas e **ainda** não otimizadas.<br><br>
+- Poderá encontrar alguns bugs ou um pouco de lentidão ao carregar devido aos "excessos" de códigos para ler citados acima ou por conter imagens mais pesadas e ***ainda*** não otimizadas.<br><br>
 
 
 - [Visite o projeto online](https://yourik1.github.io/first-site/)
