@@ -1,4 +1,3 @@
-# first-site
 <h1>Primeiro site feito de forma autônoma para praticar os conhecimentos adquiridos</h1>
 
 <h2>Aqui você vai encontrar um site feito para praticar, então:</h2>
