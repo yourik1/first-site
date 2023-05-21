@@ -380,4 +380,63 @@ nav a:hover {
     }
   }
 
-/* light mode */
+@media screen and (max-width: 480px) {
+    header, .nav, .homepage, .page_projects, .all_projects, .page_collaboration {
+        width: auto;
+    }
+
+    h1 {
+        text-align: center;
+    }
+
+    .logo {
+        position: static;
+        width: 100%;
+        margin-top: 0;
+    }
+
+    nav {
+        height: auto;
+    }
+
+    .homepage {
+        padding: 1.5em 0 1.5em 0;
+    }
+
+    .overwrite {
+        padding-right: 0;
+        padding-bottom: 1rem;
+    }
+    .title, h1 .subtitle {
+        font-size: 2rem;
+    }
+
+    h1 .subtitle {
+        padding-bottom: 0.5rem;
+    }
+
+    .text {
+        padding-bottom: 0.5rem;
+    }
+
+    #container {
+    padding-top: 1.5rem;
+    display: inline-block;
+    }
+
+    .banner {
+        width: 100%;
+    }
+    
+    nav ul {
+        display: flex;
+    }
+
+    nav li {
+        padding: 8px;
+    }
+
+    nav a {
+        font-size: 16px;
+    }
+}
