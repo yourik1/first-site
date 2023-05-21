@@ -169,7 +169,7 @@ h1 .subtitle {
 }
 
 .projeto_habits {
-    width: 350px;
+    max-width: 350px;
     height: 250px;
 
     box-sizing: border-box;
@@ -186,7 +186,7 @@ h1 .subtitle {
 }
 
 .projeto_apeperia {
-    width: 350px;
+    max-width: 350px;
     height: 250px;
     box-sizing: border-box;
 
@@ -400,7 +400,7 @@ nav a:hover {
     }
 
     .homepage {
-        padding: 1.5em 0 1.5em 0;
+        padding: 1.5em 8px 1.5em 8px;
     }
 
     .overwrite {
@@ -417,10 +417,11 @@ nav a:hover {
 
     .text {
         padding-bottom: 0.5rem;
+        font-size: 16px;
     }
 
     #container {
-    padding-top: 1.5rem;
+    padding-top: 1rem;
     display: inline-block;
     }
 
@@ -438,5 +439,52 @@ nav a:hover {
 
     nav a {
         font-size: 16px;
+    }
+    
+    .page_projects {
+        padding: 1.5rem;
+    }
+
+    .all_projects {
+        padding: 0;
+    }
+
+    .page_projects .subtitle {
+        text-align: center;
+        padding-bottom: 1.5rem;
+    }
+
+    .baloon2 {
+        padding-bottom: 1.1rem;
+    }
+
+    .projeto_habits, .projeto_apeperia, .your_project1 {
+        width: 100vw;
+    }
+
+    .page_collaboration .subtitle {
+        width: auto;
+        padding-bottom: 1.5rem;
+    }
+
+    .all_apresentation {
+        padding: 0;
+        display: inline-block;
+    }
+
+    .apresentation1, .apresentation2 {
+        padding: 0 0 1rem 0;
+    }
+
+    footer {
+        padding: 1.5rem 0;
+    }
+
+    footer img {
+        max-width: 35%;
+    }
+
+    .copyright {
+        padding-top: 0.75rem;
     }
 }
