@@ -488,3 +488,159 @@ nav a:hover {
         padding-top: 0.75rem;
     }
 }
+
+@media screen and (max-width: 768px) {
+    header, .nav, .homepage, .page_projects, .all_projects, .page_collaboration {
+        width: auto;
+    }
+
+    h1 {
+        text-align: center;
+    }
+
+    .logo {
+        position: static;
+        width: 60%;
+        margin-top: 0;
+    }
+
+    nav {
+        height: auto;
+    }
+
+    .homepage {
+        padding: 1.5em 8px 1.5em 8px;
+    }
+
+    .overwrite {
+        padding-right: 0;
+        padding-bottom: 1rem;
+    }
+
+    #container .overwrite {
+        margin: 0 8px;
+    }
+
+    .title, h1 .subtitle {
+        font-size: 4rem;
+    }
+
+    h1 .subtitle {
+        padding-bottom: 0.5rem;
+    }
+
+    .text {
+        padding-bottom: 0.5rem;
+        font-size: 24px;
+    }
+
+    .btn.elastic {
+        font-size: 1.5rem;
+    }
+
+    #container {
+    padding-top: 1rem;
+    display: inline-block;
+    }
+
+    .banner {
+        width: 100%;
+    }
+
+    nav {
+        display: inline;
+    }
+    
+    nav ul {
+        display: flex;
+        justify-content: space-around;
+        padding: 0 0 8px 0;
+    }
+
+    nav li {
+        padding: 8px;
+    }
+
+    nav a {
+        font-size: 24px;
+    }
+    
+    .page_projects {
+        padding: 1.5em 0px;
+    }
+
+    .all_projects {
+        padding: 0;
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .page_projects .subtitle {
+        text-align: center;
+        padding-bottom: 1.5rem;
+    }
+
+    .baloon2 {
+        padding-bottom: 1.1rem;
+    }
+
+    .projeto_habits, .projeto_apeperia, .your_project1 {
+        width: 100vw;
+    }
+
+    .text_projects {
+        font-size: 20px;
+    }
+
+    .page_collaboration {
+       padding: 1.5em 8px 1.5em 8px;
+    }
+
+    .page_collaboration .subtitle {
+        width: auto;
+        padding-bottom: 1.5rem;
+    }
+
+    .all_apresentation {
+        padding: 0;
+        display: inline-block;
+    }
+
+    .apresentation1 {
+        display: flex;
+        flex-direction: row;
+        padding: 0 2rem 1rem 2rem;
+    }
+
+    .apresentation2 {
+        display: flex;
+        flex-direction: row-reverse;
+        padding: 0 2rem 1rem 2rem;
+    }
+
+    .apresentation1 .borda {
+        margin-right: 16px;
+    }
+
+    .apresentation2 .borda {
+        margin-left: 16px;
+    }
+
+    .text_perfil1 {
+        display: flex;
+        align-items: center;
+        font-size: 18px;
+    }
+
+    footer {
+        padding: 1.5rem 0;
+    }
+
+    footer img {
+        max-width: 35%;
+    }
+
+    .copyright {
+        padding-top: 0.75rem;
+    }
+}
