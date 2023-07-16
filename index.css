@@ -310,7 +310,6 @@ footer {
 /* effects */
 
 .fingerprint:hover {
-    /* box-shadow: 0 8px 2px -2px grey; */
     border-radius: 100%;
     padding: 1px;
 }
