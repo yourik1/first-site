@@ -11,7 +11,7 @@
 - Praticando efeitos, como na borda azul giratória em volta da foto e na digital;<br>
 - Praticando alinhamentos e espaçamentos;<br>
 
-- E mesmo assim, não deixando ainda de ter um visual bacana no site!
+- E mesmo assim, não deixando ainda de ter um visual bacana no site!<br>
 
 
 - [Visite o projeto online](https://yourik1.github.io/first-site/)
